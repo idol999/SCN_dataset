@@ -1,1 +1,4 @@
-"# SCN_dataset" 
+## usage
+```
+python train.py
+```
